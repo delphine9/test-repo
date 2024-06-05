@@ -6,5 +6,5 @@ int main()
     printf("커피 마시고 싶다");
     printf("자취방 9하는중");
     printf("야구 보고싶");
-    printf("6월이네 벌서...");
+    printf("6월이라고 벌서...");
 }
