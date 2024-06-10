@@ -9,4 +9,5 @@ int main()
     printf("6월이라고 벌서...");
     printf("자구 너무 어려워ㅓㅠ");
     printf("종강만 기다린당");
+    printf("도넛 맛있당");
 }
